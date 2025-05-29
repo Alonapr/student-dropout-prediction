@@ -26,7 +26,7 @@ It includes academic performance indicators and socio-demographic attributes. Th
   - Dataset splitting into training, test, and validation sets
   - Training dataset balancing using SMOTE
 
-## 🧠 Models Applied
+## Models Applied
 
 1. Logistic Regression  
 2. Naive Bayes  
@@ -34,7 +34,7 @@ It includes academic performance indicators and socio-demographic attributes. Th
 4. Random Forest  
 5. Support Vector Machine (SVM)
 
-## 🔍 Evaluation Metrics
+## Evaluation Metrics
 
 - Confusion Matrix
 - Accuracy
@@ -43,7 +43,7 @@ It includes academic performance indicators and socio-demographic attributes. Th
 - F1-score
 - AUC-ROC
 
-## ⚙️ Optimization & Feature Analysis
+## Optimization & Feature Analysis
 
 - Hyperparameter tuning was applied to **Random Forest** and **SVM** to improve performance.
 - Feature importance was evaluated using **permutation importance** to identify the most influential variables.
